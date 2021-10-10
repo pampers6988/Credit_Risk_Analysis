@@ -40,7 +40,6 @@ The purpose of this challenge was to experiment with a variety of different supe
 
 
 ### Credit Risk Ensemble
-The performance of Random Forest Classifier, with and without AdaBoost did not perform well. The F1 scores were low for both due to a low precision or recall.
 
 - Balanced Random Forest Classifier
 
