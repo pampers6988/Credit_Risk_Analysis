@@ -64,7 +64,7 @@ The performance of Random Forest Classifier, with and without AdaBoost did not p
 
 ## Summary
 Credit Risk Resampling machine learning models predictive ability to predict bad loans is inadquate and not recommended for use based on the low precision and F1 scores.
-Credit risk ensemble machine learning similarly yeidled low precision and F1 scores, noting that random forest classifier withAdaBoost did a bit better than without.
+Credit risk ensemble machine learning similarly yeidled low precision and F1 scores. The performance of Random Forest Classifier, with and without AdaBoost did not perform well. The F1 scores were low for both due to a low precision or recall but the random forest classifier withAdaBoost did a bit better than without. The performance of these models is not sufficient and should not be used.
 
 
   
