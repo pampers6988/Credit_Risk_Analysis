@@ -6,10 +6,12 @@ The purpose of this challenge was to experiment with a variety of different supe
 ## Results
 ### Oversampling
 - Oversampling of Naive and with SMOTE did not yield a usable model
+
+- Balanced accuracy score: 0.6473707152052903
+
+
 - Naive oversampling imbalanced classification report
-  Balanced accuracy score: 0.6473707152052903
-
-
+  
 ![imbalanced classification report_Naive_oversampling](https://user-images.githubusercontent.com/74462990/136706062-a580d22d-f9db-4ff2-a0fd-5ed26426bc3e.jpg)
 
 
