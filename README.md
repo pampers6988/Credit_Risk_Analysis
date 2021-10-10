@@ -7,6 +7,7 @@ The purpose of this challenge was to experiment with a variety of different supe
 ### Credit Risk Resampling
 - Oversampling of Naive and with SMOTE did not yield a usable model
 
+-Naive Oversampling
 - Balanced accuracy score: 0.6473707152052903
 
 
