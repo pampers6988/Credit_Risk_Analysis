@@ -9,11 +9,13 @@ The purpose of this challenge was to experiment with a variety of different supe
 - Naive oversampling imbalanced classification report
   Balanced accuracy score: 0.6473707152052903
 
+
 ![imbalanced classification report_Naive_oversampling](https://user-images.githubusercontent.com/74462990/136706062-a580d22d-f9db-4ff2-a0fd-5ed26426bc3e.jpg)
 
 
 - SMOTE Oversampling
 Balanced accuracy score:0.6621602612787003
+
 
 SMOTE Oversampling imbalanced classification report
 ![SMOTE_oversampling_umbalanced classification_report](https://user-images.githubusercontent.com/74462990/136707697-aae1464e-775e-46f4-b2e5-719c3aeb42b9.jpg)
